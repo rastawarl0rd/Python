@@ -8,3 +8,5 @@ gem = [p for p in itertools.permutations(colors, 6)]
 for i in gem:
 #   print("Number of permutations are {} ".format(str(len(gem))))
     print(str(i))
+
+#New comment
