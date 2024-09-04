@@ -1,5 +1,19 @@
 ### Python
 
-#practice project
-#bs4 project
-#
+# practice project
+  
+  -
+
+# bs4 project
+  
+  -
+
+# selenium project
+  
+  -
+
+# targetPoster project
+
+  -
+
+
