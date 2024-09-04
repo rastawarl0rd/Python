@@ -1,5 +1,5 @@
 ### Python
 
-#Scrappy project
+#practice project
 #bs4 project
 #
